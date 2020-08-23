@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Merkaartor 0.18.3">
+ <bounds minlat="29.9436200" minlon="31.0652600" maxlat="29.9449000" maxlon="31.0673200"/>
+  <node id="5225738962" timestamp="2019-04-23T08:22:25Z" version="2" user="BdeMakaSka" actor="2" lon="31.0641077" lat="29.9401986"/>
+  <node id="5225738963" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0638948" lat="29.9410488"/>
+  <node id="5225738964" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0639675" lat="29.9418259"/>
+  <node id="5225738965" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0642021" lat="29.9423132"/>
+  <node id="5225738966" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0645288" lat="29.9427358"/>
+  <node id="5225738967" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0648260" lat="29.9430563"/>
+  <node id="5225738968" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0654006" lat="29.9434226"/>
+  <node id="5225738969" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0658629" lat="29.9436343"/>
+  <node id="5225738970" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0664639" lat="29.9437774"/>
+  <node id="5225738971" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0670979" lat="29.9438518"/>
+  <node id="5225738972" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0677518" lat="29.9437488"/>
+  <node id="5225738973" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0681480" lat="29.9436343"/>
+  <node id="5225738974" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0685641" lat="29.9434626"/>
+  <node id="5225738975" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0690925" lat="29.9431422"/>
+  <node id="5225738976" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0695085" lat="29.9428045"/>
+  <node id="5225738977" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0698255" lat="29.9423181"/>
+  <node id="5225738978" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0700303" lat="29.9418316"/>
+  <node id="5225738979" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0700963" lat="29.9414367"/>
+  <node id="5225738980" timestamp="2019-04-23T07:08:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0700879" lat="29.9406808"/>
+  <node id="5225738981" timestamp="2019-04-23T07:08:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0699247" lat="29.9401618"/>
+  <node id="5225738982" timestamp="2019-04-23T07:08:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0693770" lat="29.9393643"/>
+  <node id="5225738983" timestamp="2019-04-24T08:06:00Z" version="3" user="BdeMakaSka" actor="2" lon="31.0687417" lat="29.9388598"/>
+  <node id="5225738984" timestamp="2019-04-23T07:08:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0678657" lat="29.9385080"/>
+  <node id="5225738985" timestamp="2019-04-23T07:08:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0667579" lat="29.9384167"/>
+  <node id="5225738995" timestamp="2019-04-23T07:08:01Z" version="3" user="BdeMakaSka" actor="2" lon="31.0702037" lat="29.9406903"/>
+  <node id="5225738996" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0696525" lat="29.9428294"/>
+  <node id="5225738997" timestamp="2017-11-13T03:08:17Z" version="1" user="Seandebasti" actor="2" lon="31.0691387" lat="29.9432365"/>
+  <node id="5225738998" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0678654" lat="29.9438066"/>
+  <node id="5225738999" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0670735" lat="29.9439407"/>
+  <node id="5225739000" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0663641" lat="29.9438567"/>
+  <node id="5225739001" timestamp="2019-04-02T06:32:46Z" version="2" user="BeautyWithBrains" actor="2" lon="31.0700950" lat="29.9419105"/>
+  <node id="5225739002" timestamp="2019-04-02T06:32:46Z" version="2" user="BeautyWithBrains" actor="2" lon="31.0700360" lat="29.9401278"/>
+  <node id="5225739003" timestamp="2019-04-23T07:08:01Z" version="3" user="BdeMakaSka" actor="2" lon="31.0695613" lat="29.9394177"/>
+  <node id="5225739008" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0702121" lat="29.9414153"/>
+  <node id="5225739009" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0699111" lat="29.9423847"/>
+  <node id="5225739010" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0686281" lat="29.9435321"/>
+  <node id="5225739011" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0658023" lat="29.9437083"/>
+  <node id="5225739013" timestamp="2019-04-23T07:08:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0691260" lat="29.9389872"/>
+  <node id="5225739017" timestamp="2019-04-23T07:08:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0690857" lat="29.9388543"/>
+  <node id="5225739018" timestamp="2019-04-24T08:06:00Z" version="2" user="BdeMakaSka" actor="2" lon="31.0691727" lat="29.9387136"/>
+  <node id="5225739019" timestamp="2019-04-24T08:06:00Z" version="3" user="BdeMakaSka" actor="2" lon="31.0699917" lat="29.9381045"/>
+  <node id="5225739020" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0691111" lat="29.9391033"/>
+  <node id="5225739524" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0654643" lat="29.9435527"/>
+  <node id="5225739525" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0652229" lat="29.9434331"/>
+  <node id="5225739526" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0650791" lat="29.9434829"/>
+  <node id="5225739527" timestamp="2017-11-13T03:08:18Z" version="1" user="Seandebasti" actor="2" lon="31.0649354" lat="29.9436174"/>
+  <node id="5225739528" timestamp="2020-01-25T07:09:30Z" version="2" user="bunty_6" actor="2" lon="31.0636376" lat="29.9452004">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739631" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0701227" lat="29.9426812"/>
+  <node id="5225739632" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0694081" lat="29.9434968"/>
+  <node id="5225739633" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0678395" lat="29.9444558"/>
+  <node id="5225739634" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0674299" lat="29.9445766"/>
+  <node id="5225739635" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0668547" lat="29.9447050"/>
+  <node id="5225739636" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0665933" lat="29.9448862"/>
+  <node id="5225739637" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0666194" lat="29.9451883"/>
+  <node id="5225739638" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0653297" lat="29.9459962"/>
+  <node id="5225739639" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0648417" lat="29.9460868"/>
+  <node id="5225739640" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0644931" lat="29.9460340"/>
+  <node id="5225739641" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0642578" lat="29.9459207"/>
+  <node id="5225739642" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0640399" lat="29.9456942"/>
+  <node id="5225739643" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0627066" lat="29.9448409"/>
+  <node id="5225739644" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0619572" lat="29.9444256"/>
+  <node id="5225739645" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0617306" lat="29.9441235"/>
+  <node id="5225739646" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0616434" lat="29.9438517"/>
+  <node id="5225739647" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0616434" lat="29.9435043"/>
+  <node id="5225739648" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0617829" lat="29.9431570"/>
+  <node id="5225739649" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0623319" lat="29.9425453"/>
+  <node id="5225739650" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0625585" lat="29.9420771"/>
+  <node id="5225739651" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0629158" lat="29.9410954"/>
+  <node id="5225739652" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0634822" lat="29.9401213"/>
+  <node id="5225739653" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0644495" lat="29.9388602"/>
+  <node id="5225739654" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0644669" lat="29.9383089"/>
+  <node id="5225739655" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0652948" lat="29.9368363"/>
+  <node id="5225739656" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0657393" lat="29.9360358"/>
+  <node id="5225739657" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0660704" lat="29.9358168"/>
+  <node id="5225739658" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0663057" lat="29.9358168"/>
+  <node id="5225739659" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0665584" lat="29.9358621"/>
+  <node id="5225739660" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0684756" lat="29.9371006"/>
+  <node id="5225739661" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0683972" lat="29.9372517"/>
+  <node id="5225739662" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0690856" lat="29.9376972"/>
+  <node id="5225739663" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0692686" lat="29.9380673"/>
+  <node id="5225739664" timestamp="2020-01-25T07:09:30Z" version="3" user="bunty_6" actor="2" lon="31.0694352" lat="29.9382254">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739665" timestamp="2020-01-25T07:09:30Z" version="3" user="bunty_6" actor="2" lon="31.0695339" lat="29.9383031">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739666" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0697218" lat="29.9384071"/>
+  <node id="5225739667" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0702185" lat="29.9383995"/>
+  <node id="5225739668" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0709331" lat="29.9388149"/>
+  <node id="5225739669" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0730682" lat="29.9402648"/>
+  <node id="5225739670" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0732425" lat="29.9406650"/>
+  <node id="5225739671" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0732076" lat="29.9409595"/>
+  <node id="5225739672" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0730682" lat="29.9412238"/>
+  <node id="5225739673" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0727806" lat="29.9414504"/>
+  <node id="5225739674" timestamp="2017-11-13T03:08:20Z" version="1" user="Seandebasti" actor="2" lon="31.0708895" lat="29.9425906"/>
+  <node id="5225739729" timestamp="2020-01-25T07:09:30Z" version="2" user="bunty_6" actor="2" lon="31.0671072" lat="29.9446633">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739730" timestamp="2020-02-07T16:56:00Z" version="2" user="Kundelungu" actor="2" lon="31.0671224" lat="29.9448064"/>
+  <node id="5225739731" timestamp="2019-04-17T11:06:19Z" version="2" user="GobiDesert" actor="2" lon="31.0662287" lat="29.9456941"/>
+  <node id="5225739732" timestamp="2017-11-13T03:08:21Z" version="1" user="Seandebasti" actor="2" lon="31.0667118" lat="29.9452574"/>
+  <node id="5225739733" timestamp="2017-11-13T03:08:21Z" version="1" user="Seandebasti" actor="2" lon="31.0677735" lat="29.9446073"/>
+  <node id="5225739797" timestamp="2020-01-25T07:09:30Z" version="2" user="bunty_6" actor="2" lon="31.0624440" lat="29.9423137">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739800" timestamp="2020-01-25T07:09:30Z" version="4" user="bunty_6" actor="2" lon="31.0641887" lat="29.9392195">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5225739801" timestamp="2020-01-25T07:09:30Z" version="2" user="bunty_6" actor="2" lon="31.0698524" lat="29.9429897">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="6320354492" timestamp="2019-04-24T08:06:01Z" version="3" user="BdeMakaSka" actor="2" lon="31.0664992" lat="29.9384555"/>
+  <node id="6377447945" timestamp="2019-04-22T12:49:36Z" version="2" user="GobiDesert" actor="2" lon="31.0679209" lat="29.9445305"/>
+  <node id="6377447947" timestamp="2019-04-23T07:08:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0696511" lat="29.9395154"/>
+  <node id="6377447948" timestamp="2019-04-23T07:08:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0699327" lat="29.9399348"/>
+  <node id="6377447949" timestamp="2019-04-23T07:08:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0701419" lat="29.9404241"/>
+  <node id="6377447950" timestamp="2019-04-02T06:32:45Z" version="1" user="BeautyWithBrains" actor="2" lon="31.0702157" lat="29.9409250"/>
+  <node id="6411564691" timestamp="2019-04-17T11:06:18Z" version="1" user="GobiDesert" actor="2" lon="31.0662474" lat="29.9456257"/>
+  <node id="6411564692" timestamp="2019-04-17T11:06:18Z" version="1" user="GobiDesert" actor="2" lon="31.0663305" lat="29.9455106"/>
+  <node id="6411564693" timestamp="2019-04-17T11:06:18Z" version="1" user="GobiDesert" actor="2" lon="31.0662822" lat="29.9455676"/>
+  <node id="6411564694" timestamp="2019-04-17T11:06:18Z" version="1" user="GobiDesert" actor="2" lon="31.0663922" lat="29.9454676"/>
+  <node id="6421018770" timestamp="2019-04-22T12:49:36Z" version="1" user="GobiDesert" actor="2" lon="31.0679844" lat="29.9444929"/>
+  <node id="6422565467" timestamp="2019-04-23T07:08:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0691867" lat="29.9391775"/>
+  <node id="6422565468" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0689189" lat="29.9389738"/>
+  <node id="6422565469" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0701781" lat="29.9405740"/>
+  <node id="6422565470" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0702102" lat="29.9407786"/>
+  <node id="6422565471" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0700977" lat="29.9407844"/>
+  <node id="6422565472" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0700990" lat="29.9409099"/>
+  <node id="6422565473" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0700092" lat="29.9403730"/>
+  <node id="6422565474" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0698957" lat="29.9398798"/>
+  <node id="6422565475" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0698001" lat="29.9399210"/>
+  <node id="6422565476" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0697839" lat="29.9398895"/>
+  <node id="6422565477" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0695781" lat="29.9394360"/>
+  <node id="6422565478" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0694982" lat="29.9394921"/>
+  <node id="6422565479" timestamp="2019-04-23T08:33:05Z" version="2" user="BdeMakaSka" actor="2" lon="31.0692521" lat="29.9391347"/>
+  <node id="6422565480" timestamp="2019-04-24T08:06:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0692067" lat="29.9386721"/>
+  <node id="6422565482" timestamp="2019-04-24T08:06:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0691200" lat="29.9387831"/>
+  <node id="6422565483" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0690811" lat="29.9389157"/>
+  <node id="6422565987" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0681129" lat="29.9385994"/>
+  <node id="6422565989" timestamp="2019-04-24T08:06:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0685410" lat="29.9387600"/>
+  <node id="6422565991" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0672394" lat="29.9384083"/>
+  <node id="6422565992" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0673095" lat="29.9384125"/>
+  <node id="6422565993" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0669206" lat="29.9384055"/>
+  <node id="6422565994" timestamp="2019-04-23T07:08:01Z" version="1" user="BdeMakaSka" actor="2" lon="31.0670923" lat="29.9383997"/>
+  <node id="6422674162" timestamp="2019-04-24T08:06:01Z" version="2" user="BdeMakaSka" actor="2" lon="31.0694223" lat="29.9384390"/>
+  <node id="6422675311" timestamp="2019-04-24T08:06:02Z" version="2" user="BdeMakaSka" actor="2" lon="31.0644792" lat="29.9395645"/>
+  <node id="6424866649" timestamp="2020-01-25T07:09:30Z" version="3" user="bunty_6" actor="2" lon="31.0641036" lat="29.9393312">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="6425012522" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0696672" lat="29.9382044"/>
+  <node id="6425012527" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0698509" lat="29.9381335"/>
+  <node id="6425012528" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0697423" lat="29.9381719"/>
+  <node id="6425012529" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0696082" lat="29.9382405"/>
+  <node id="6425012533" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0641955" lat="29.9400116"/>
+  <node id="6425012535" timestamp="2019-04-24T08:06:00Z" version="1" user="BdeMakaSka" actor="2" lon="31.0643117" lat="29.9398335"/>
+  <node id="7158037079" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0637108" lat="29.9450622"/>
+  <node id="7158037080" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0638603" lat="29.9458300"/>
+  <node id="7158037081" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0637087" lat="29.9456048"/>
+  <node id="7158037082" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0636242" lat="29.9454827"/>
+  <node id="7158037083" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0635920" lat="29.9454095"/>
+  <node id="7158037084" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0635880" lat="29.9453131"/>
+  <node id="7158046889" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0636664" lat="29.9449184"/>
+  <node id="7158046890" timestamp="2020-01-25T07:09:30Z" version="1" user="bunty_6" actor="2" lon="31.0637497" lat="29.9450506"/>
+  <node id="7193568271" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0690024" lat="29.9433154"/>
+  <node id="7193568272" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0690623" lat="29.9434630"/>
+  <node id="7193568273" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0690677" lat="29.9435165"/>
+  <node id="7193568274" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0690436" lat="29.9435630"/>
+  <node id="7193568275" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0689926" lat="29.9436048"/>
+  <node id="7193568276" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0687995" lat="29.9437071"/>
+  <node id="7193568277" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0686144" lat="29.9437791"/>
+  <node id="7193568278" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0684374" lat="29.9438419"/>
+  <node id="7193568279" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0682148" lat="29.9439070"/>
+  <node id="7193568280" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0675254" lat="29.9440685"/>
+  <node id="7193568281" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674852" lat="29.9440859"/>
+  <node id="7193568282" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674624" lat="29.9441127"/>
+  <node id="7193568283" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674517" lat="29.9441870"/>
+  <node id="7193568284" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674450" lat="29.9442230"/>
+  <node id="7193594885" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674208" lat="29.9442521"/>
+  <node id="7193594886" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0673846" lat="29.9442707"/>
+  <node id="7193594887" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671593" lat="29.9443770"/>
+  <node id="7193594888" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671325" lat="29.9443915"/>
+  <node id="7193594889" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671164" lat="29.9444090"/>
+  <node id="7193594890" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671177" lat="29.9445368"/>
+  <node id="7193594891" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671177" lat="29.9445728"/>
+  <node id="7193594892" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671090" lat="29.9444340"/>
+  <node id="7193594893" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671097" lat="29.9444694"/>
+  <node id="7193594894" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0674188" lat="29.9448006"/>
+  <node id="7193594895" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0673652" lat="29.9448169"/>
+  <node id="7193594896" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0673236" lat="29.9448186"/>
+  <node id="7193594897" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0672391" lat="29.9448076"/>
+  <node id="7193594898" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671929" lat="29.9448012"/>
+  <node id="7193594899" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0670728" lat="29.9448215"/>
+  <node id="7193594900" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0670373" lat="29.9448424"/>
+  <node id="7193594901" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0670152" lat="29.9448732"/>
+  <node id="7193594902" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0670044" lat="29.9449046"/>
+  <node id="7193594903" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0669736" lat="29.9450179"/>
+  <node id="7193594904" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0669447" lat="29.9450725"/>
+  <node id="7193594905" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0669085" lat="29.9451132"/>
+  <node id="7193594906" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0667852" lat="29.9446693"/>
+  <node id="7193594907" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0666926" lat="29.9446995"/>
+  <node id="7193594908" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0666242" lat="29.9447390"/>
+  <node id="7193594909" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0665813" lat="29.9447855"/>
+  <node id="7193594910" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0663681" lat="29.9452794"/>
+  <node id="7193594911" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0663185" lat="29.9453375"/>
+  <node id="7193594912" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0662474" lat="29.9453933"/>
+  <node id="7193594913" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0655285" lat="29.9458337"/>
+  <node id="7193594914" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0654333" lat="29.9458755"/>
+  <node id="7193594915" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0653341" lat="29.9458999"/>
+  <node id="7193594916" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0652107" lat="29.9458999"/>
+  <node id="7193594917" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0650806" lat="29.9458825"/>
+  <node id="7193594918" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0649693" lat="29.9458476"/>
+  <node id="7193594919" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0647480" lat="29.9457093"/>
+  <node id="7193594920" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2" lon="31.0671131" lat="29.9446089"/>
+  <way id="540106508" timestamp="2019-04-24T08:06:02Z" version="5" user="BdeMakaSka" actor="2">
+    <BoundingBox>
+      <topright lon="31.0700990" lat="29.9438518"/>
+      <bottomleft lon="31.0638948" lat="29.9383997"/>
+    </BoundingBox>
+    <nd ref="6422675311"/>
+    <nd ref="6425012535"/>
+    <nd ref="6425012533"/>
+    <nd ref="5225738962"/>
+    <nd ref="5225738963"/>
+    <nd ref="5225738964"/>
+    <nd ref="5225738965"/>
+    <nd ref="5225738966"/>
+    <nd ref="5225738967"/>
+    <nd ref="5225738968"/>
+    <nd ref="5225738969"/>
+    <nd ref="5225738970"/>
+    <nd ref="5225738971"/>
+    <nd ref="5225738972"/>
+    <nd ref="5225738973"/>
+    <nd ref="5225738974"/>
+    <nd ref="5225738975"/>
+    <nd ref="5225738976"/>
+    <nd ref="5225738977"/>
+    <nd ref="5225738978"/>
+    <nd ref="5225738979"/>
+    <nd ref="6422565472"/>
+    <nd ref="6422565471"/>
+    <nd ref="5225738980"/>
+    <nd ref="6422565473"/>
+    <nd ref="5225738981"/>
+    <nd ref="6422565475"/>
+    <nd ref="6422565476"/>
+    <nd ref="6422565478"/>
+    <nd ref="5225738982"/>
+    <nd ref="6422565467"/>
+    <nd ref="5225739020"/>
+    <nd ref="6422565468"/>
+    <nd ref="5225738983"/>
+    <nd ref="6422565989"/>
+    <nd ref="6422565987"/>
+    <nd ref="5225738984"/>
+    <nd ref="6422565992"/>
+    <nd ref="6422565991"/>
+    <nd ref="6422565994"/>
+    <nd ref="6422565993"/>
+    <nd ref="5225738985"/>
+    <nd ref="6320354492"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="540106510" timestamp="2020-02-07T16:56:00Z" version="7" user="Kundelungu" actor="2">
+    <BoundingBox>
+      <topright lon="31.0702157" lat="29.9458300"/>
+      <bottomleft lon="31.0635880" lat="29.9381045"/>
+    </BoundingBox>
+    <nd ref="5225739019"/>
+    <nd ref="6425012527"/>
+    <nd ref="6425012528"/>
+    <nd ref="6425012522"/>
+    <nd ref="6425012529"/>
+    <nd ref="5225739665"/>
+    <nd ref="6422674162"/>
+    <nd ref="6422565480"/>
+    <nd ref="5225739018"/>
+    <nd ref="6422565482"/>
+    <nd ref="5225739017"/>
+    <nd ref="6422565483"/>
+    <nd ref="5225739013"/>
+    <nd ref="6422565479"/>
+    <nd ref="5225739003"/>
+    <nd ref="6422565477"/>
+    <nd ref="6377447947"/>
+    <nd ref="6422565474"/>
+    <nd ref="6377447948"/>
+    <nd ref="5225739002"/>
+    <nd ref="6377447949"/>
+    <nd ref="6422565469"/>
+    <nd ref="5225738995"/>
+    <nd ref="6422565470"/>
+    <nd ref="6377447950"/>
+    <nd ref="5225739008"/>
+    <nd ref="5225739001"/>
+    <nd ref="5225739009"/>
+    <nd ref="5225738996"/>
+    <nd ref="5225738997"/>
+    <nd ref="7193568271"/>
+    <nd ref="5225739010"/>
+    <nd ref="5225738998"/>
+    <nd ref="5225738999"/>
+    <nd ref="5225739000"/>
+    <nd ref="5225739011"/>
+    <nd ref="5225739524"/>
+    <nd ref="5225739525"/>
+    <nd ref="5225739526"/>
+    <nd ref="5225739527"/>
+    <nd ref="7158046890"/>
+    <nd ref="5225739528"/>
+    <nd ref="7158037084"/>
+    <nd ref="7158037083"/>
+    <nd ref="7158037082"/>
+    <nd ref="7158037081"/>
+    <nd ref="7158037080"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="540106539" timestamp="2020-01-25T07:09:30Z" version="5" user="bunty_6" actor="2">
+    <BoundingBox>
+      <topright lon="31.0732425" lat="29.9460868"/>
+      <bottomleft lon="31.0616434" lat="29.9358168"/>
+    </BoundingBox>
+    <nd ref="5225739631"/>
+    <nd ref="5225739801"/>
+    <nd ref="5225739632"/>
+    <nd ref="5225739633"/>
+    <nd ref="5225739634"/>
+    <nd ref="5225739729"/>
+    <nd ref="5225739635"/>
+    <nd ref="5225739636"/>
+    <nd ref="5225739637"/>
+    <nd ref="5225739638"/>
+    <nd ref="5225739639"/>
+    <nd ref="5225739640"/>
+    <nd ref="5225739641"/>
+    <nd ref="5225739642"/>
+    <nd ref="7158037079"/>
+    <nd ref="7158046889"/>
+    <nd ref="5225739643"/>
+    <nd ref="5225739644"/>
+    <nd ref="5225739645"/>
+    <nd ref="5225739646"/>
+    <nd ref="5225739647"/>
+    <nd ref="5225739648"/>
+    <nd ref="5225739649"/>
+    <nd ref="5225739797"/>
+    <nd ref="5225739650"/>
+    <nd ref="5225739651"/>
+    <nd ref="5225739652"/>
+    <nd ref="6424866649"/>
+    <nd ref="5225739800"/>
+    <nd ref="5225739653"/>
+    <nd ref="5225739654"/>
+    <nd ref="5225739655"/>
+    <nd ref="5225739656"/>
+    <nd ref="5225739657"/>
+    <nd ref="5225739658"/>
+    <nd ref="5225739659"/>
+    <nd ref="5225739660"/>
+    <nd ref="5225739661"/>
+    <nd ref="5225739662"/>
+    <nd ref="5225739663"/>
+    <nd ref="5225739664"/>
+    <nd ref="5225739665"/>
+    <nd ref="5225739666"/>
+    <nd ref="5225739667"/>
+    <nd ref="5225739668"/>
+    <nd ref="5225739669"/>
+    <nd ref="5225739670"/>
+    <nd ref="5225739671"/>
+    <nd ref="5225739672"/>
+    <nd ref="5225739673"/>
+    <nd ref="5225739674"/>
+    <nd ref="5225739631"/>
+    <tag k="construction" v="yes"/>
+    <tag k="landuse" v="construction"/>
+  </way>
+  <way id="540106543" timestamp="2020-02-07T16:56:00Z" version="2" user="Kundelungu" actor="2">
+    <BoundingBox>
+      <topright lon="31.0671224" lat="29.9448064"/>
+      <bottomleft lon="31.0671072" lat="29.9444694"/>
+    </BoundingBox>
+    <nd ref="7193594893"/>
+    <nd ref="7193594890"/>
+    <nd ref="7193594891"/>
+    <nd ref="7193594920"/>
+    <nd ref="5225739729"/>
+    <nd ref="5225739730"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="540106544" timestamp="2020-02-07T16:56:00Z" version="5" user="Kundelungu" actor="2">
+    <BoundingBox>
+      <topright lon="31.0679844" lat="29.9456941"/>
+      <bottomleft lon="31.0662287" lat="29.9444929"/>
+    </BoundingBox>
+    <nd ref="5225739731"/>
+    <nd ref="6411564691"/>
+    <nd ref="6411564693"/>
+    <nd ref="6411564692"/>
+    <nd ref="6411564694"/>
+    <nd ref="5225739732"/>
+    <nd ref="7193594905"/>
+    <nd ref="7193594904"/>
+    <nd ref="7193594903"/>
+    <nd ref="7193594902"/>
+    <nd ref="7193594901"/>
+    <nd ref="7193594900"/>
+    <nd ref="7193594899"/>
+    <nd ref="5225739730"/>
+    <nd ref="7193594898"/>
+    <nd ref="7193594897"/>
+    <nd ref="7193594896"/>
+    <nd ref="7193594895"/>
+    <nd ref="7193594894"/>
+    <nd ref="5225739733"/>
+    <nd ref="6377447945"/>
+    <nd ref="6421018770"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="770687604" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2">
+    <BoundingBox>
+      <topright lon="31.0690677" lat="29.9444694"/>
+      <bottomleft lon="31.0671090" lat="29.9433154"/>
+    </BoundingBox>
+    <nd ref="7193594893"/>
+    <nd ref="7193594892"/>
+    <nd ref="7193594889"/>
+    <nd ref="7193594888"/>
+    <nd ref="7193594887"/>
+    <nd ref="7193594886"/>
+    <nd ref="7193594885"/>
+    <nd ref="7193568284"/>
+    <nd ref="7193568283"/>
+    <nd ref="7193568282"/>
+    <nd ref="7193568281"/>
+    <nd ref="7193568280"/>
+    <nd ref="7193568279"/>
+    <nd ref="7193568278"/>
+    <nd ref="7193568277"/>
+    <nd ref="7193568276"/>
+    <nd ref="7193568275"/>
+    <nd ref="7193568274"/>
+    <nd ref="7193568273"/>
+    <nd ref="7193568272"/>
+    <nd ref="7193568271"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="770687605" timestamp="2020-02-07T16:56:00Z" version="1" user="Kundelungu" actor="2">
+    <BoundingBox>
+      <topright lon="31.0671131" lat="29.9458999"/>
+      <bottomleft lon="31.0637497" lat="29.9446089"/>
+    </BoundingBox>
+    <nd ref="7158046890"/>
+    <nd ref="7193594919"/>
+    <nd ref="7193594918"/>
+    <nd ref="7193594917"/>
+    <nd ref="7193594916"/>
+    <nd ref="7193594915"/>
+    <nd ref="7193594914"/>
+    <nd ref="7193594913"/>
+    <nd ref="7193594912"/>
+    <nd ref="7193594911"/>
+    <nd ref="7193594910"/>
+    <nd ref="7193594909"/>
+    <nd ref="7193594908"/>
+    <nd ref="7193594907"/>
+    <nd ref="7193594906"/>
+    <nd ref="7193594920"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-1" timestamp="2020-08-18T09:38:54Z" version="0" user="" actor="2" lon="31.0667400" lat="29.9444100"/>
+  <node id="-2" timestamp="2020-08-18T09:40:20Z" version="0" user="" actor="2" lon="31.0667465" lat="29.9444199"/>
+  <node id="-3" timestamp="2020-08-18T09:40:21Z" version="0" user="" actor="2" lon="31.0667564" lat="29.9444349"/>
+  <node id="-4" timestamp="2020-08-18T09:40:23Z" version="0" user="" actor="2" lon="31.0667644" lat="29.9444487"/>
+  <node id="-5" timestamp="2020-08-18T09:40:27Z" version="0" user="" actor="2" lon="31.0667717" lat="29.9444608"/>
+  <node id="-6" timestamp="2020-08-18T09:40:28Z" version="0" user="" actor="2" lon="31.0667604" lat="29.9444678"/>
+  <node id="-7" timestamp="2020-08-18T09:40:30Z" version="0" user="" actor="2" lon="31.0667458" lat="29.9444729"/>
+  <node id="-8" timestamp="2020-08-18T09:40:31Z" version="0" user="" actor="2" lon="31.0667338" lat="29.9444793"/>
+  <node id="-9" timestamp="2020-08-18T09:40:35Z" version="0" user="" actor="2" lon="31.0667258" lat="29.9444672"/>
+  <node id="-10" timestamp="2020-08-18T09:40:36Z" version="0" user="" actor="2" lon="31.0667391" lat="29.9444597"/>
+  <node id="-11" timestamp="2020-08-18T09:40:37Z" version="0" user="" actor="2" lon="31.0667338" lat="29.9444464"/>
+  <node id="-12" timestamp="2020-08-18T09:40:41Z" version="0" user="" actor="2" lon="31.0667218" lat="29.9444361"/>
+  <way id="-13" timestamp="2020-08-18T09:40:47Z" version="0" user="" actor="2">
+    <BoundingBox>
+      <topright lon="31.0667717" lat="29.9444793"/>
+      <bottomleft lon="31.0667218" lat="29.9444100"/>
+    </BoundingBox>
+    <nd ref="-12"/>
+    <nd ref="-11"/>
+    <nd ref="-10"/>
+    <nd ref="-9"/>
+    <nd ref="-8"/>
+    <nd ref="-7"/>
+    <nd ref="-6"/>
+    <nd ref="-5"/>
+    <nd ref="-4"/>
+    <nd ref="-3"/>
+    <nd ref="-2"/>
+    <nd ref="-1"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-14" timestamp="2020-08-18T10:02:10Z" version="0" user="" actor="2" lon="31.0665830" lat="29.9445262"/>
+  <node id="-31" timestamp="2020-08-18T11:55:12Z" version="0" user="" actor="2" lon="31.0665758" lat="29.9445321"/>
+  <node id="-32" timestamp="2020-08-18T11:55:14Z" version="0" user="" actor="2" lon="31.0665758" lat="29.9445458"/>
+  <node id="-33" timestamp="2020-08-18T11:55:16Z" version="0" user="" actor="2" lon="31.0665810" lat="29.9445564"/>
+  <node id="-34" timestamp="2020-08-18T11:55:17Z" version="0" user="" actor="2" lon="31.0665915" lat="29.9445616"/>
+  <node id="-35" timestamp="2020-08-18T11:55:18Z" version="0" user="" actor="2" lon="31.0666046" lat="29.9445609"/>
+  <node id="-36" timestamp="2020-08-18T11:55:19Z" version="0" user="" actor="2" lon="31.0666194" lat="29.9445579"/>
+  <node id="-37" timestamp="2020-08-18T11:55:22Z" version="0" user="" actor="2" lon="31.0666255" lat="29.9445420"/>
+  <node id="-38" timestamp="2020-08-18T11:55:28Z" version="0" user="" actor="2" lon="31.0666412" lat="29.9445518"/>
+  <node id="-39" timestamp="2020-08-18T11:55:30Z" version="0" user="" actor="2" lon="31.0666508" lat="29.9445616"/>
+  <way id="-40" timestamp="2020-08-18T11:55:36Z" version="0" user="" actor="2">
+    <BoundingBox>
+      <topright lon="31.0666508" lat="29.9445616"/>
+      <bottomleft lon="31.0665758" lat="29.9445262"/>
+    </BoundingBox>
+    <nd ref="-39"/>
+    <nd ref="-38"/>
+    <nd ref="-37"/>
+    <nd ref="-36"/>
+    <nd ref="-35"/>
+    <nd ref="-34"/>
+    <nd ref="-33"/>
+    <nd ref="-32"/>
+    <nd ref="-31"/>
+    <nd ref="-14"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-41" timestamp="2020-08-18T13:35:58Z" version="0" user="" actor="0" dirtylevel="5" lon="31.0665835" lat="29.9440538"/>
+  <way id="-42" timestamp="2020-08-18T13:36:45Z" version="0" user="" actor="0" dirtylevel="12" selected="true">
+    <BoundingBox>
+      <topright lon="31.0666138" lat="29.9440700"/>
+      <bottomleft lon="31.0665835" lat="29.9440538"/>
+    </BoundingBox>
+    <nd ref="-41"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-43" timestamp="2020-08-18T13:36:45Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0665844" lat="29.9440579"/>
+  <node id="-44" timestamp="2020-08-18T13:36:47Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0665873" lat="29.9440644"/>
+  <node id="-45" timestamp="2020-08-18T13:36:48Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0665940" lat="29.9440662"/>
+  <node id="-46" timestamp="2020-08-18T13:36:51Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666003" lat="29.9440659"/>
+  <node id="-47" timestamp="2020-08-18T13:36:52Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666051" lat="29.9440647"/>
+  <node id="-48" timestamp="2020-08-18T13:36:53Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666081" lat="29.9440610"/>
+  <node id="-49" timestamp="2020-08-18T13:37:00Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666118" lat="29.9440632"/>
+  <node id="-50" timestamp="2020-08-18T13:37:02Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666138" lat="29.9440662"/>
+  <node id="-51" timestamp="2020-08-18T13:37:05Z" version="0" user="" actor="0" dirtylevel="1" lon="31.0666097" lat="29.9440700"/>
+  <bound box="29.935817,31.061643,29.946087,31.073242" origin="http://www.openstreetmap.org/api/0.6"/>
+</osm>

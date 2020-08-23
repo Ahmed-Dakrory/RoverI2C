@@ -1,0 +1,23 @@
+<osm attribution="http://www.openstreetmap.org/copyright" copyright="OpenStreetMap and contributors" generator="CGImap 0.7.5 (21102 thorn-02.openstreetmap.org)" license="http://opendatacommons.org/licenses/odbl/1-0/" version="0.6">
+	
+ <bounds maxlat="51.9290000" maxlon="4.4893000" minlat="51.9214000" minlon="4.4729000" />
+ 
+ 
+ 
+ <node changeset="123123" id="20190814191543" lat="51.9252328" lon="4.4778295" timestamp="2019-08-14T19:15:43Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="pub" />
+ </node><node changeset="123123" id="20190814191638" lat="51.9252428" lon="4.4778395" timestamp="2019-08-14T19:16:38Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="pub" />
+ </node><node changeset="123123" id="20190814191807" lat="51.9259428" lon="4.4771395" timestamp="2019-08-14T19:18:07Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="joy" v="pub" />
+ </node><node changeset="123123" id="20190814191931" lat="51.9259928" lon="4.4718395" timestamp="2019-08-14T19:19:31Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="joy" />
+ </node><node changeset="123123" id="20190816110150" lat="51.9259928" lon="4.4718395" timestamp="2019-08-16T11:01:50Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="joy" />
+ </node><node changeset="123123" id="20190816110255" lat="51.9259928" lon="4.4718395" timestamp="2019-08-16T11:02:55Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="joy" />
+ </node><node changeset="123123" id="20190816110358" lat="51.9259928" lon="4.4718395" timestamp="2019-08-16T11:03:58Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="joy" />
+ </node><node changeset="123123" id="20190816111619" lat="51.9259928" lon="4.4718395" timestamp="2019-08-16T11:16:29Z" uid="0" user="NewDakroryTags" version="5" visible="true"> 
+ <tag k="amenity" v="placeKora" />
+ </node></osm>

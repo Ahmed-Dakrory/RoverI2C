@@ -11,8 +11,8 @@ while True:
     time.sleep(0.01)
     if imu.Readings !=None:
         # pass
-        # print("%0.2f  , %0.2f,  %0.2f" % (imu.Readings['Roll'],imu.Readings['Pitch'],imu.Readings['Yaw']))
-        print(imu.Readings['Yaw'])
+        print("%0.2f  , %0.2f,  %0.2f" % (imu.Readings['Roll'],imu.Readings['Pitch'],imu.Readings['Yaw']))
+        # print(imu.Readings['Yaw'])
 
 # from rm3100  import RM3100
 

@@ -20,8 +20,8 @@ import time
 class GpsThreadReadings (threading.Thread):
     def __init__(self,GpsReadings):
         super(GpsThreadReadings , self).__init__(name="GPS thread")
-        # self.serialCom = serial.Serial(port='/dev/ttyACM0',baudrate=115200)
-        self.serialCom = serial.Serial(port='COM3',baudrate=115200)
+        self.serialCom = serial.Serial(port='/dev/ttyACM0',baudrate=115200)
+        # self.serialCom = serial.Serial(port='COM3',baudrate=115200)
         self.GpsReadings = GpsReadings
         self.GpsRun = True
         self.timeBefore = 0
